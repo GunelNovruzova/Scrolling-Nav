@@ -1,0 +1,172 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+#Head {
+    background-color: #212529;
+    text-align: center;
+    padding: 20px 0;
+}
+
+#Head .About {
+    margin-right: 10px;
+    margin-left: 1050px;
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.55);
+}
+
+#Head a {
+    text-decoration: none;
+    color: #fff;
+}
+
+#Head a:hover {
+    color: rgba(255, 255, 255, 0.75);
+}
+
+#Head .Services {
+    margin-right: 10px;
+    margin-top: 50px;
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.55);
+}
+
+#Head .Contacts {
+    margin-right: 10px;
+    margin-bottom: 100px;
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.55);
+}
+
+#Head h1 {
+    text-align: left;
+    margin-left: 60px;
+    margin-top: 10px;
+    padding-bottom: 10px;
+    color: #FFFFFF;
+}
+
+#First {
+    background-image: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0));
+    background-color: rgba(13, 110, 253, 1);
+    padding: 7rem 0;
+    text-align: center;
+}
+
+#First h1 {
+    color: #fff;
+    font-size: 40px;
+    margin-bottom: 10px;
+    font-weight: bolder;
+}
+
+#First h3 {
+    color: #fff;
+    margin-bottom: 40px;
+    font-size: 20px;
+    font-weight: 300;
+}
+
+#First a {
+    background-color: #f8f9fa;
+    color: #000;
+    font-size: 1.5rem;
+    text-decoration: none;
+    padding: 0.7rem 0.5rem;
+    border-radius: 0.3rem;
+    border: 1px solid #f8f9fa;
+}
+
+#Second {
+    padding: 9rem 0;
+}
+
+#Second h1 {
+    width: 50%;
+    margin: 0 auto;
+    margin-bottom: 0.5px;
+    font-weight: 500;
+}
+
+#Second p {
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 10px;
+    line-height: 30px;
+    color: #212529;
+    font-size: 20px;
+    font-weight: 300;
+}
+
+#Second ul {
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+#Second li {
+    margin-top: 10px;
+    margin-left: 30px;
+}
+
+#Third {
+    padding: 10rem 0;
+    background-color: #F8F9FA;
+}
+
+#Third h1 {
+    width: 50%;
+    margin: 0 auto;
+    margin-bottom: 2.5px;
+    font-weight: 500;
+}
+
+#Third p {
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 10px;
+    font-size: 1.15rem;
+    color: #212529;
+    line-height: 30px;
+    font-weight: 300;
+}
+
+#Fourth {
+    padding: 10rem 0;
+    background-color: #FFFFFF;
+}
+
+#Fourth h1 {
+    width: 50%;
+    margin: 0 auto;
+    margin-bottom: 0.5px;
+    font-weight: 500;
+}
+
+#Fourth p {
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 10px;
+    font-size: 1.10rem;
+    color: #212529;
+    line-height: 30px;
+    font-weight: 300;
+}
+
+#Foot {
+    background-color: #212529;
+    padding: 40px 0;
+}
+
+#Foot h3 {
+    color: #fff;
+    text-align: center;
+    padding-top: 10px;
+    font-size: 18px;
+}
